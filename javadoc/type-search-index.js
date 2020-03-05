@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"FloopyLand","l":"Battle"},{"p":"FloopyLand","l":"Healer"},{"p":"FloopyLand","l":"Heroes"},{"p":"FloopyLand","l":"Main"},{"p":"FloopyLand","l":"MyController"},{"p":"FloopyLand","l":"Ninja"},{"p":"FloopyLand","l":"Soldier"},{"p":"FloopyLand","l":"Tanker"},{"p":"FloopyLand","l":"Thief"}]
